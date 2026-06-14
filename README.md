@@ -168,11 +168,8 @@ I love solving problems through code. Whether it's creating a sleek user interfa
 
 ## 🐍 Snake Eating Contribution
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hassanbinzubair/hassanbinzubair/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hassanbinzubair/hassanbinzubair/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/hassanbinzubair/hassanbinzubair/blob/output/github-snake.svg" />
-</picture>
+  <img alt="github-snake" src="https://github.com/hassanbinzubair/hassanbinzubair/blob/output/github-contribution-grid-snake.gif" />
+
 
 ---
 ## 📈 Activity & Growth
