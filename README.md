@@ -168,7 +168,7 @@ I love solving problems through code. Whether it's creating a sleek user interfa
 
 ## 🐍 Snake Eating Contribution
 
-  <img alt="github-snake" src="https://github.com/hassanbinzubair/hassanbinzubair/blob/output/github-contribution-grid-snake.gif" />
+  ![Snake](https://github.com/hassanbinzubair/hassanbinzubair/blob/master/github-contribution-grid-snake.gif)
 
 
 ---
