@@ -158,8 +158,9 @@ I love solving problems through code. Whether it's creating a sleek user interfa
 
 <div align="center">
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=hassanbinzubair&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+![](https://github-readme-stats.shion.dev/api?username=hassanbinzubair&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=hassanbinzubair&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hassanbinzubair&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
