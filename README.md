@@ -166,11 +166,6 @@ I love solving problems through code. Whether it's creating a sleek user interfa
 
 ---
 
-## 🐍 Snake Eating Contribution
-
-  <img src="https://github.com/hassanbinzubair/hassanbinzubair/blob/master/github-contribution-grid-snake.gif">
-  
----
 ## 📈 Activity & Growth
 
 <div align="center">
