@@ -8,6 +8,9 @@
 
 </div>
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=hassanbinzubair&color=blueviolet&style=flat-square)
+
 ---
 
 ## 🎯 About Me
@@ -169,8 +172,6 @@ I love solving problems through code. Whether it's creating a sleek user interfa
 ## 📈 Activity & Growth
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hassanbinzubair&color=blueviolet&style=flat-square)
 
 <img src="https://img.shields.io/badge/Repositories-Active-brightgreen?style=flat-square&logo=github" alt="Active Repositories"/>
 <img src="https://img.shields.io/badge/Learning_Status-Beginner_to_Intermediate-yellow?style=flat-square" alt="Learning Status"/>
