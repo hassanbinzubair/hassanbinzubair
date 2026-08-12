@@ -109,7 +109,7 @@ I love solving problems through code. Whether it's creating a sleek user interfa
 
 ### 🎨 Content & Creative
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@HassanBinZubair)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hassanbinzubairofficial)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=globe&logoColor=white)](https://hassanbinzubair.github.io)
 
 ### 🌍 Social Media
