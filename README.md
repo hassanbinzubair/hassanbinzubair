@@ -1,165 +1,103 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Hassan%20Bin%20Zubair&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hassan Bin Zubair profile header" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hassan%20Bin%20Zubair&fontSize=90&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <h1>Hi, I'm Hassan 👋</h1>
+  <h3>Full-Stack Developer • Builder • Lifelong Learner</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+🚀;Web+Enthusiast+🌐;Problem+Solver+💡" width="100%"/>
+  <p>
+    <a href="https://github.com/hassanbinzubair?tab=followers"><img src="https://img.shields.io/github/followers/hassanbinzubair?label=Followers&style=flat-square&logo=github&color=181717" alt="GitHub followers" /></a>
+    <a href="https://github.com/hassanbinzubair?tab=repositories"><img src="https://img.shields.io/github/stars/hassanbinzubair?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=f59e0b" alt="GitHub stars" /></a>
+    <a href="https://komarev.com/ghpvc/?username=hassanbinzubair"><img src="https://komarev.com/ghpvc/?username=hassanbinzubair&style=flat-square&color=0ea5e9&label=Profile%20views" alt="Profile views" /></a>
+  </p>
 
+  <p>
+    <a href="https://github.com/hassanbinzubair"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
+    <a href="mailto:hassanbinzubair5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hassan" /></a>
+  </p>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hassanbinzubair&color=blueviolet&style=flat-square)
+## 🚀 About me
 
----
+I'm **Hassan Bin Zubair**, a developer from **Lahore, Pakistan 🇵🇰** who enjoys turning ideas into useful, accessible, and maintainable digital products.
 
-## 🎯 About Me
+- 🔭 Currently building full-stack web experiences and improving my software engineering fundamentals.
+- 🌱 Learning more about TypeScript, Next.js, APIs, databases, cloud, and Android development.
+- 🧠 I learn by building: small experiments, practical projects, and open-source collaboration.
+- 🤝 Open to meaningful collaborations, freelance opportunities, and developer communities.
+- ⚡ Fun fact: I enjoy exploring both technology and traditional learning.
 
-I'm **Hassan Bin Zubair**, a passionate **Full Stack Developer** from **Lahore, Pakistan** 🇵🇰 with a deep love for coding and continuous learning. Currently pursuing my education at **BISE Lahore (12th Grade)**.
+> **My approach:** understand the problem → design a simple solution → build with care → iterate from feedback.
 
-### 💭 My Journey
+## 🧰 Technology toolkit
 
-I started learning web development with a dream to create impactful digital solutions. Every day, I push myself to learn new technologies and build projects that matter. I believe in the power of continuous learning and innovation.
+### Frontend & UI
 
-### 🔭 What I'm Doing Now
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS and Bootstrap" />
+</p>
 
-- 🌐 Building responsive web applications with React & Next.js
-- 📱 Exploring Android development with Kotlin & Java
-- 🎨 Mastering modern UI/UX with Tailwind CSS
-- 🔧 Deepening my backend knowledge with Node.js & Python
-- 💡 Contributing to open-source projects
+### Backend, data & mobile
 
-### 🎓 Education & Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,postgres,mysql,kotlin,java" alt="Node.js, Express, Python, Django, MongoDB, PostgreSQL, MySQL, Kotlin and Java" />
+</p>
 
-- **School**: BISE Lahore (12th) - 2nd Year Student
-- **Religious Education**: Jamia tul Madina - 4th Year (Darse Nizami)
-- **Self-Learning**: Full Stack Development, Mobile Apps, Web Technologies
+### Tools, cloud & workflow
 
-### ⚡ What Drives Me
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,vercel,figma" alt="Git, GitHub, VS Code, Docker, Linux, AWS, Vercel and Figma" />
+</p>
 
-I love solving problems through code. Whether it's creating a sleek user interface or optimizing backend performance, I'm always excited about the challenge. I believe in learning by doing and sharing knowledge with the community.
+## 📌 What I'm focusing on
 
----
+| Area | Current focus |
+| --- | --- |
+| **Product engineering** | Responsive interfaces, reusable components, accessibility, and clean UX |
+| **Full-stack development** | Type-safe APIs, authentication, validation, testing, and scalable architecture |
+| **Data & performance** | Practical database design, query optimization, caching, and observability |
+| **Professional growth** | Consistent shipping, technical writing, open source, and collaboration |
 
-# 💻 My Favorite Tools & Technologies
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub at a glance
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=hassanbinzubair&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=hassanbinzubair&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=hassanbinzubair&theme=dark&hide_border=false&layout=compact)
-
+  <a href="https://github.com/hassanbinzubair">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hassanbinzubair&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=06b6d4" alt="Hassan's GitHub statistics" />
+  </a>
+  <a href="https://github.com/hassanbinzubair">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanbinzubair&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=2563eb" alt="Hassan's most used languages" />
+  </a>
 </div>
 
----
-
-## 📈 Activity & Growth
-
 <div align="center">
-
-![Repositories](https://img.shields.io/badge/Repositories-Active-brightgreen?style=flat-square&logo=github)
-![Learning Status](https://img.shields.io/badge/Learning_Status-Intermediate-yellow?style=flat-square)
-![Availability](https://img.shields.io/badge/Availability-Open_to_Collaborate-brightgreen?style=flat-square)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hassanbinzubair&hide_border=true&mode=weekly&theme=transparent&ring=2563eb&fire=f97316&currStreakLabel=2563eb" alt="Hassan's GitHub contribution streak" />
+  </a>
 </div>
 
----
-
-## 🌐 Connect With Me
+## 🌟 Featured work
 
 <div align="center">
-
-### 📧 Email & Communication
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanbinzubair5@gmail.com)
-[![Calendly](https://img.shields.io/badge/Calendly-006B3F?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/hassanbinzubair5)
-
-### 💼 Professional Networks
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-bin-zubair-12508540a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassanbinzubair)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32782562/hassan-bin-zubair)
-
-### 🎨 Content & Creative
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hassanbinzubairofficial)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=globe&logoColor=white)](https://hassanbinzubair.github.io)
-
-### 🌍 Social Media
-
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IbneZubair5)
-[![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/hassanbinzubair5.bsky.social)
-
+  <a href="https://github.com/hassanbinzubair?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassanbinzubair&repo=hassanbinzubair&hide_border=true&theme=transparent&title_color=2563eb" alt="Profile repository" />
+  </a>
+  <a href="https://github.com/hassanbinzubair?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20all%20repositories-→-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
 </div>
 
----
-
-## 💡 Quotes & Motivation
+## 🤝 Let's connect
 
 <div align="center">
-
-> **"Code. Learn. Build. Repeat."**
->
-> _Every line of code brings me closer to my dreams._
-
----
-
-> **"The best time to start was yesterday, the second best is now."**
->
-> _I'm making that choice every single day._
-
----
-
-> **"From ideas to pixels, from pixels to impact."**
->
-> _That's what development means to me._
-
+  <a href="mailto:hassanbinzubair5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/hassan-bin-zubair-12508540a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/hassanbinzubair"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@hassanbinzubairofficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://x.com/IbneZubair5"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </div>
 
----
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Happy%20Coding!%20🚀&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-Made with ❤️ by **Hassan Bin Zubair** | 2026
-
-_Feel free to reach out for collaborations and opportunities!_ 🤝
-
-![Status](https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-blue?style=flat-square)
-
+  <br />
+  <i>“Code. Learn. Build. Repeat.”</i>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" alt="Profile footer" width="100%" />
 </div>
